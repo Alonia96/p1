@@ -6,6 +6,7 @@ public class Main {
 	int cuatro = 4000;
         int resultado;
         System.out.println("HolaHolaHolaHola");
+        System.out.println("Buen día");
         System.out.println("Hola, Mundo" );
         System.out.println("Hasta luego" );
         resultado = uno + dos + tres + cuatro;
