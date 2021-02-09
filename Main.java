@@ -5,7 +5,7 @@ public class Main {
 	int tres = 3;
 	int cuatro = 4;
         int resultado;
-        System.out.println("Buen año");
+        System.out.println("Buen día");
         System.out.println("Hola, Mundo" );
         System.out.println("Hasta luego" );
         resultado = uno + dos + tres + cuatro;
